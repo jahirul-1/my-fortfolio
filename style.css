@@ -12,4 +12,15 @@ h1{
     #ab{font-family: roboto slab; color: #2f3640;font-size:15px;}
     
     .half-width{width: 40%; float: left;margin: 5%;padding: ;} .half-width img{ width:400px;}
+    .top-banner{ background-image: url("images/top-banner.png");background-repeat:no-repeat;}
+    section{ height: 500px;}
+    body{margin:0%;}
+    .link-button{ text-decoration: none;
+                background-image :linear-gradient(90deg,#25CCF7,#1B9CFC );
+                padding: 10px 20px;
+                border-radius:6px;
+                font-family: roboto slab;
+                color: white;
+                font-size: bold;
+    }
 
