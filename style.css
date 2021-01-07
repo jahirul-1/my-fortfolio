@@ -1,6 +1,6 @@
 h1{
     font-family: roboto slab;
-    font-size:35px;
+    font-size:30px;
     color: #2f3640;
 
 }
@@ -9,9 +9,9 @@ h1{
 }
 .color{
     color: #00a8ff; } #textcolor{color: #646464; font-size: medium; font-family: lato;} 
-    #ab{font-family: roboto slab; color: #2f3640;font-size:15px;}
+    #ab{font-family: roboto slab; color: #2f3640;font-size:15px;}#experiance{font-family:roboto slab; color:  #2f3640;background-image:linear-gradient(deg90,#ff6348,#ff7f50); padding: 5px 10px;}
     
-    .half-width{width: 40%; float: left;margin: 5%;padding: ;} .half-width img{ width:400px;}
+    .half-width{width: 40%; float: left;margin: 3%;padding: %;} .half-width img{ width:400px;}
     .top-banner{ background-image: url("images/top-banner.png");background-repeat:no-repeat;}
     section{ height: 500px;}
     body{margin:0%;}
@@ -23,4 +23,33 @@ h1{
                 color: white;
                 font-size: bold;
     }
-
+    .ab{font-size: 25px;
+        font-family: roboto slab;
+        color: #ff6348;
+    }
+    .dream-area{
+        background-image: url("images/dream-bg.png");
+        background-repeat:no-repeat;
+        background-position:right;
+    }
+#size{font-size: 20px;}
+h3{
+    font-family: roboto slab;
+    color:rgb(54, 54, 54);
+}
+.box-desgin{
+    box-shadow:10px 10px 30px dimgray;
+    width:40% ;
+    border-radius: 6px;
+    
+}
+#border{
+    border-left: 6px solid;
+    border-image: linear-gradient( 180deg,#ff6348,#ff7f50); 
+    border-image-slice: 1;
+}
+#border2{
+    border-left:6px solid;
+    border-image: linear-gradient(180deg,#2e86de,#48dbfb);
+    border-image-slice: 1;
+}
